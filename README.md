@@ -5,7 +5,7 @@ I created this device which is called ATTEMP and it's a Attiny85 based termomete
 ![alt tag](https://github.com/StanislavJochman/ATTEMP/blob/master/ATTEMP-ASSEMBLED.png)
 ![alt tag](https://github.com/StanislavJochman/ATTEMP/blob/master/ATTEMP-BOX.png)
 ## Components:
- - ###Electronic components
+ - ### Electronic components
   - [Attiny85 procesor]
   - [DS18B20 temperature senzor]
   - [7 Segment display - common cathode]
@@ -16,7 +16,7 @@ I created this device which is called ATTEMP and it's a Attiny85 based termomete
   - [8x 150 ohm rezistor]
   - [Wago 500 terminal]
   - [1x3 female pinheader]
- - ###Construction components
-   - [3d printed case]
+ - ### Construction components
+   -[3d printed case]
 ## Support
 [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)]()
