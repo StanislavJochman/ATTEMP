@@ -1,6 +1,6 @@
 # ATTEMP
-##Overview:##
-###Components:####
+##Overview:
+###Components:
 -Attiny85 procesor
 -DS18B20 temperature senzor
 -7 Segment display
