@@ -4,5 +4,8 @@ Components:
 	DS18B20	temperature senzor
 	7 Segment display
 	74hc595 shift register
-	button
+	button 6 x 6 x 5mm
+	smd diode
+	45x45 pcb
+	8x 150 ohm rezistor
 ATTEMP
