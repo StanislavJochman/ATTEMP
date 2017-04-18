@@ -17,6 +17,6 @@ I created this device which is called ATTEMP and it's a Attiny85 based termomete
   - [Wago 500 terminal]
   - [1x3 female pinheader]
  - ### Construction components
-   -[3d printed case]
+   - [3d printed case]
 ## Support
 [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)]()
