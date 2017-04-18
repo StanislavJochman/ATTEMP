@@ -1,7 +1,7 @@
-# ATTEMP Attiny85 based termometer
+# ATTEMP (Attiny85 based termometer)
 
 ## Overview:
-I created this device which is called ATTEMP and it's a Attiny85 based termometer.It uses Attiny 85 as processor, 7 segment display to display temperatures, 74hc595 shift register to drive 7 segment display and pushbutton for °C of F selection.
+I created this device which is called ATTEMP. It's a Attiny85 based termometer which uses Attiny 85 as processor, 7 segment display to display temperatures in °C of F, 74hc595 shift register to drive 7 segment display and pushbutton for selection of °C or F.
 ![alt tag](https://github.com/StanislavJochman/ATTEMP/blob/master/ATTEMP-ASSEMBLED.png)
 ![alt tag](https://github.com/StanislavJochman/ATTEMP/blob/master/ATTEMP-BOX.png)
 ## Components:
@@ -28,11 +28,7 @@ I created this device which is called ATTEMP and it's a Attiny85 based termomete
    - [Solder]
    - [3d printer]
    - [Mill/Engaver(optional)]
-  
-  
-   
-   
-   
-   
+## Instructables
+![alt tag](https://cdn.instructables.com/ORIG/FER/9J3V/HX1W6LBM/FER9J3VHX1W6LBM.jpg)
 ## Support
 [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)]()
