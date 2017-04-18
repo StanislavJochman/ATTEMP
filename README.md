@@ -13,5 +13,3 @@ I created this device which is called ATTEMP and it's a Attiny85 based termomete
  - [8x 150 ohm rezistor]
  - [Wago 500 terminal]
  - [1x3 female pinheader]
-##Support
-[![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)]()
