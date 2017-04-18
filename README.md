@@ -8,4 +8,6 @@ Components:
 	smd diode
 	45x45 pcb
 	8x 150 ohm rezistor
+	Wago 500 terminal
+	1x3 female pinheader
 ATTEMP
