@@ -32,7 +32,7 @@ I created this device which is called ATTEMP. It's a Attiny85 based termometer w
 [Instructables](https://www.instructables.com/id/ATTEMP-Attiny85-Based-Termometer/)
 
 ## Schematic
-ke [embed]https://github.com/StanislavJochman/ATTEMP/blob/master/ATTEMP-Schematic.pdf()[/embed]
+![embed]https://github.com/StanislavJochman/ATTEMP/blob/master/ATTEMP-Schematic.pdf()[/embed]
 ## Photos
 ### Assembled
 ![alt tag](https://github.com/StanislavJochman/ATTEMP/blob/master/ATTEMP-ASSEMBLED.png)
