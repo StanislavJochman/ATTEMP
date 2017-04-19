@@ -30,8 +30,7 @@ I created this device which is called ATTEMP. It's a Attiny85 based termometer w
    - [Mill/Engaver(optional)]
 ## Instructables
 [Instructables](https://www.instructables.com/id/ATTEMP-Attiny85-Based-Termometer/)
-## Support
-[![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)]()
+
 ## Schematic
 ![alt tag](https://github.com/StanislavJochman/ATTEMP/blob/master/ATTEMP-Schematic.pdf)
 ## Photos
@@ -41,3 +40,6 @@ I created this device which is called ATTEMP. It's a Attiny85 based termometer w
 ![alt tag](https://github.com/StanislavJochman/ATTEMP/blob/master/ATTEMP-BOX.png)
 ### Faceplate
 ![alt tag](https://github.com/StanislavJochman/ATTEMP/blob/master/ATTEMP-FACEPLATE.png)
+## Support
+[![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)]()
+[![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/StanislavJochman/ATTEMP)
