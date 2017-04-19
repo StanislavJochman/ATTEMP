@@ -41,5 +41,5 @@ I created this device which is called ATTEMP. It's a Attiny85 based termometer w
 ### Faceplate
 ![alt tag](https://github.com/StanislavJochman/ATTEMP/blob/master/ATTEMP-FACEPLATE.png)
 ## Support
-[![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)]()
+[![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/StanislavJochman)
 [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/StanislavJochman/ATTEMP)
